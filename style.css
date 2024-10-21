@@ -1,0 +1,11 @@
+
+#portfolio-pic{
+    display: inline-block;
+    height: 250px;
+    width: 225px;
+}
+#personal-details{
+    display: inline-block;
+    background-color: black;
+    color: white;
+}
