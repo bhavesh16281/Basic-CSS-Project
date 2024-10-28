@@ -94,7 +94,7 @@
     /* background-color: deeppink; */
     
 }
-.company{
+.company, .award{
     font-family: Arial, Helvetica, sans-serif;
     /* font-weight: lighter; */
     text-align: left;
@@ -104,7 +104,7 @@
     padding-top: 0%;
     padding-bottom: 0%;
 }
-.professional-role{
+.professional-role, .issuer{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-weight: lighter;
     text-align: left;
@@ -115,7 +115,7 @@
     padding-top: 0%;
     padding-bottom: 0%;
 }
-ul{
+ul, .award-summary{
     font-family: Arial, Helvetica, sans-serif;
     text-align: justify;
     font-size: 125%;
@@ -155,7 +155,7 @@ ul{
     padding-top: 0%;
     padding-bottom: 0%;
 }
-.skill{
+.skill, .certifications{
         font-family: Arial, Helvetica, sans-serif;
         /* font-weight: lighter; */
         text-align: left;
@@ -165,7 +165,4 @@ ul{
         padding-top: 0%;
         padding-bottom: 0%;
 
-}
-#skillsblock-1{
-    display: inline-block;
 }
