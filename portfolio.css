@@ -1,0 +1,19 @@
+.row{
+    background-color: #B1D4Ff;
+}
+.passport_pic{
+    width: 95%;
+    height: 100%;
+}
+.name{
+    font-family: sans-serif lato;
+    color: #2e3d49;
+}
+.role{
+    font-family: sans-serif lato;
+    color: #2e3d49;
+}
+.details{
+    font-family: sans-serif lato;
+    color: #2e3d49;
+}
